@@ -1,0 +1,18 @@
+{
+  "name": "state-of-vue-finland",
+  "version": "1.0.0",
+  "description": "The landscape of companies using Vue.js in Finland",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuejs-finland/state.vuejs.fi.git"
+  },
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "author": "Vue.js Finland",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
