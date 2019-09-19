@@ -10,6 +10,7 @@ The list is alphabetically sorted.
 
 | Company | Sponsor |
 | ---  | --- |
+| [BCaster](https://www.bcaster.com) |  |
 | [Holvi](https://www.holvi.com/fi-en/) | ⭐️ |
 | [Montel Intergalactic](https://www.montel.fi) |  |
 | [Feedbackly](https://www.feedbackly.com/) |  |
