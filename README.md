@@ -11,9 +11,9 @@ The list is alphabetically sorted.
 | Company | Sponsor |
 | ---  | --- |
 | [BCaster](https://www.bcaster.com) |  |
+| [Edita Publishing](https://www.editapublishing.fi) |  |
 | [Feedbackly](https://www.feedbackly.com/) |  |
 | [Holvi](https://www.holvi.com/fi-en/) | ⭐️ |
 | [Montel Intergalactic](https://www.montel.fi) |  |
-| [Edita Publishing](https://www.editapublishing.fi) |  |
 --- 
 Made with ❤ in 🇫🇮
