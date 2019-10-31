@@ -15,5 +15,6 @@ The list is alphabetically sorted.
 | [Feedbackly](https://www.feedbackly.com/) |  |
 | [Holvi](https://www.holvi.com/fi-en/) | ⭐️ |
 | [Montel Intergalactic](https://www.montel.fi) |  |
+| [Sarake](https://sarake.fi) | |
 --- 
 Made with ❤ in 🇫🇮
