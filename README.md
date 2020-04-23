@@ -16,5 +16,6 @@ The list is alphabetically sorted.
 | [Holvi](https://www.holvi.com/fi-en/) | ⭐️ |
 | [Montel Intergalactic](https://www.montel.fi) |  |
 | [Sarake](https://sarake.fi) | |
+| [Accountor Eduhouse](https://eduhouse.fi) | |
 --- 
 Made with ❤ in 🇫🇮
